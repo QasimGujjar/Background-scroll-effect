@@ -1,0 +1,33 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+section
+{
+	height: 100vh;
+	border: 2px solid #262626;
+}
+.sec1
+{
+	background: url("image1.jpg"); 
+	background-attachment: fixed;
+}
+.sec2
+{
+	background: url("image2.jpg"); 
+	background-attachment: fixed;
+}
+.sec3
+{
+	background: url("image3.jpg"); 
+	background-attachment: fixed;
+}
+.sec4
+{
+	background: url("image4.jpg"); 
+	background-attachment: fixed;
+}
+.sec5
+{
+	background: url("image5.jpg"); 
+}
